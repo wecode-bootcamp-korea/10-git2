@@ -1,16 +1,16 @@
 <table>
       <tbody>
         <tr>
-          <td>k김신영</td>
-          <td>김신영</td>
+          <td>김정호</td>
+          <td>김정ㅇ호</td>
           <td>김신영</td>
           <td>김신영</td>
           <td>김신영</td>
         </tr>
         <tr>
+          <td>김정호</td>
           <td>김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
+          <td>김정호</td>
           <td>김신영</td>
           <td>김신영</td>
         </tr>
