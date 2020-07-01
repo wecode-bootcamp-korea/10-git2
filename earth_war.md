@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>k김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
+          <td>김경배</td>
+          <td>김경배</td>
+          <td>김경배</td>
+          <td>김경배</td>
+          <td>김경배/td>
         </tr>
         <tr>
-          <td>김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
-          <td>김신영</td>
+          <td>김경배</td>
+          <td>김경배</td>
+          <td>김경배/td>
+          <td>김경배/td>
+          <td>김경배</td>
         </tr>
       </tbody>
 </table>
