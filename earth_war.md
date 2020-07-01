@@ -6,13 +6,17 @@
           <td>송수호</td>
           <td>송수호</td>
           <td>송수호</td>
-        </tr>
+          <td>k김신영</td>
+          <td>김신영</td>
+          <td>김신영</td>
+          <td>김신영</td>
+	</tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>김신영</td>
+          <td>김신영</td>
+          <td>김신영</td>
+          <td>김신영</td>
+          <td>김신영</td>
         </tr>
       </tbody>
 </table>
